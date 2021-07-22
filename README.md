@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @inner-liberte
 - 👀 I’m interested in front-end development
-- 🌱 HTML/CSS, JS, React/Redux, Next.js, Git, Version Control 
+- 🌱 HTML/CSS, JS, React/Redux, Next.js, Git, Version Control,
+      Webpack, SASS/LESS, Node.js
 - 💞️ I’m looking to collaborate on [later]
 - 📫 How to reach me: grebn-nat@mail.ru
 
