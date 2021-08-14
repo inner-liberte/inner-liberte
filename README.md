@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inner-liberte
-- 👀 I’m interested in front-end development, React
+- 👀 Front-end development; React; functional components; React Hooks, Custom Hooks; Redux; Multi-page SPA with React Router; Next.js, React+ TypeScript, animating React apps, Unit Tests,
 - 🌱 HTML/CSS, JS, React/Redux, Next.js, Git, Version Control,
       Webpack, SASS/LESS, Node.js
 - 💞️ I’m looking to collaborate on [later]
