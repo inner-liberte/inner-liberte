@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natalia
-- 👀 Front-End Development; React; Functional Components; React Hooks, Custom Hooks; Redux; Multi-page SPA with React Router; Next.js, React + TypeScript, Optimization Techniques;
+- 👀 Front-End Development; React; Functional Components; React Hooks, Custom Hooks; Redux; Multi-page SPA with React Router; Next.js, Optimization Techniques;
 - 🌱 HTML/CSS, JS, Git, Version Control, Node.js/Express.js, Webpack, SASS/LESS;
 - React Native
 - 💞️ Loking for a long-term cooperation
