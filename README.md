@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Natalia
-- 👀 Front-End Development; React; Functional Components; React Hooks, Custom Hooks; Redux; Multi-page SPA with React Router; Next.js, Optimization Techniques;
-- 🌱 HTML/CSS, JS, Git, Version Control, Node.js/Express.js, Webpack, SASS/LESS;
-- React Native
+- 👀 Front-End Development; React; Functional Components; React Hooks, Custom Hooks; Redux; Multi-page SPA with React Router; Optimization Techniques;
+- 🌱 HTML/CSS, JS, Git, Version Control, Node.js/Express.js, Webpack;
+- React Native;
+-  Next.js & React.js
 - 💞️ Loking for a long-term cooperation
 - 📫 How to reach me: grebn-nat@mail.ru
 
