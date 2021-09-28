@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Natalia
-- 👀 Front-End Development;
 - 🌱 HTML/CSS, 
 - JS, 
 - Git, Version Control, 
